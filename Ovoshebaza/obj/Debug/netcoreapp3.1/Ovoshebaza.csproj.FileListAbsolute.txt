@@ -1,0 +1,13 @@
+D:\ВШЭ\Прога\Домашки\Peer Grade\Ovoshebaza\Ovoshebaza\bin\Debug\netcoreapp3.1\Ovoshebaza.exe
+D:\ВШЭ\Прога\Домашки\Peer Grade\Ovoshebaza\Ovoshebaza\bin\Debug\netcoreapp3.1\Ovoshebaza.deps.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\Ovoshebaza\Ovoshebaza\bin\Debug\netcoreapp3.1\Ovoshebaza.runtimeconfig.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\Ovoshebaza\Ovoshebaza\bin\Debug\netcoreapp3.1\Ovoshebaza.runtimeconfig.dev.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\Ovoshebaza\Ovoshebaza\bin\Debug\netcoreapp3.1\Ovoshebaza.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\Ovoshebaza\Ovoshebaza\bin\Debug\netcoreapp3.1\Ovoshebaza.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\Ovoshebaza\Ovoshebaza\obj\Debug\netcoreapp3.1\Ovoshebaza.csprojAssemblyReference.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Ovoshebaza\Ovoshebaza\obj\Debug\netcoreapp3.1\Ovoshebaza.AssemblyInfoInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Ovoshebaza\Ovoshebaza\obj\Debug\netcoreapp3.1\Ovoshebaza.AssemblyInfo.cs
+D:\ВШЭ\Прога\Домашки\Peer Grade\Ovoshebaza\Ovoshebaza\obj\Debug\netcoreapp3.1\Ovoshebaza.csproj.CoreCompileInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Ovoshebaza\Ovoshebaza\obj\Debug\netcoreapp3.1\Ovoshebaza.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\Ovoshebaza\Ovoshebaza\obj\Debug\netcoreapp3.1\Ovoshebaza.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\Ovoshebaza\Ovoshebaza\obj\Debug\netcoreapp3.1\Ovoshebaza.genruntimeconfig.cache

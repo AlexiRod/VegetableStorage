@@ -1,0 +1,8 @@
+-add con6 box4,box5
+-add con7 box3,box4,box5
+-remove con5
+-remove con6
+-remove con8
+-add con9 box1,box2
+-вцц цй 
+-ad con10
